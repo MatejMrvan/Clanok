@@ -1,0 +1,8 @@
+Introduction kompletný, rozpis dalsich krokov napísaný
+Dorobiť obrázky a explanation
+Pridať sprity
+Pohrať sa s rozhraním
+Dorobiť Jadro, skontrolovať chyby
+Dať do PDF
+Urobiť Conclusion
+Dorobiť zdroje do finálneho statu
